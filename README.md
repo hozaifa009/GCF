@@ -1,5 +1,5 @@
 # GCF
-the official source code for GCF:Graph Convolutional Networks for Facial Expression Recognition
+the official source code for "GCF:Graph Convolutional Networks for Facial Expression Recognition"
 
 Apstract:
 Facial Expression Recognition (FER) is crucial for
